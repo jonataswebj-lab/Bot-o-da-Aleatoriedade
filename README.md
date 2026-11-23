@@ -4,7 +4,7 @@ Página interativa em que cada clique no botão sorteia um efeito diferente: cor
 
 🔗 **[Ver site no ar](COLE-AQUI-O-LINK-DO-SITE)**
 
-![Prévia do projeto](COLE-AQUI-O-PRINT)
+![Prévia do projeto](https://github.com/jonataswebj-lab/Primeiro-projeto-responsivo/blob/main/5%20-%20Bot%C3%A3o%20da%20Aleatoriedade/Botao%20aleatorio.png?raw=true)
 
 ## O que acontece ao clicar?
 - Um contador mostra quantos cliques já foram dados
