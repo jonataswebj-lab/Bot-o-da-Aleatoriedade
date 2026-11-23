@@ -2,7 +2,7 @@
 
 Página interativa em que cada clique no botão sorteia um efeito diferente: cores, tamanhos, mensagens e até eventos secretos que aparecem conforme o número de cliques.
 
-🔗 **[Ver site no ar](COLE-AQUI-O-LINK-DO-SITE)**
+🔗 **[Ver site no ar](https://jonataswebj-lab.github.io/Bot-o-da-Aleatoriedade/)**
 
 ![Prévia do projeto](https://github.com/jonataswebj-lab/Primeiro-projeto-responsivo/blob/main/5%20-%20Bot%C3%A3o%20da%20Aleatoriedade/Botao%20aleatorio.png?raw=true)
 
